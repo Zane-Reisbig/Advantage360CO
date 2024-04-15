@@ -80,7 +80,7 @@
 
         layer_gamer_mode {
             bindings = <
- &trans  &trans  &trans  &trans  &trans  &trans               &trans                                                  &trans  &trans  &trans  &trans  &trans  &trans  &trans
+ &trans  &trans  &trans  &trans  &trans  &trans                &to 0                                                  &trans  &trans  &trans  &trans  &trans  &trans  &trans
  &trans  &trans  &trans  &trans  &trans  &trans               &trans                                                  &trans  &trans  &trans  &trans  &trans  &trans  &trans
  &trans  &trans  &trans  &trans  &trans  &trans               &trans  &trans  &trans                  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
  &trans  &trans  &trans  &trans  &trans  &trans                               &trans                  &trans                  &trans  &trans  &trans  &trans  &trans  &trans
