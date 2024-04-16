@@ -1,3 +1,15 @@
+macro_open_command_pa: macro_open_command_pa{
+compatible = "zmk,behavior-macro";
+label = "macro_open_command_pa";
+#binding-cells = <0>;
+bindings = <&kt LCTRL>, <&kt LEFT_SHIFT>, <&kp P>, <&kt LCTRL>, <&kt LCTRL>;
+};
+macro_my_name: macro_my_name{
+compatible = "zmk,behavior-macro";
+label = "macro_my_name";
+#binding-cells = <0>;
+bindings = <&kp Z>, <&kp A>, <&kp N>, <&kp E>, <&kp SPACE>, <&kp R>, <&kp E>, <&kp I>, <&kp S>, <&kp B>, <&kp I>, <&kp G>;
+};
 macro_open_task_manag: macro_open_task_manag{
 compatible = "zmk,behavior-macro";
 label = "macro_open_task_manag";
